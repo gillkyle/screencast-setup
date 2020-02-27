@@ -1,0 +1,1 @@
+alias screencast="export PS1='\\$ ' && clear"
